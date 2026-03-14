@@ -97,6 +97,8 @@ The heatmap visualizes correlation between all medical variables.
 ```
 medical-data-visualizer
 │
+├── catplot.png
+├── heatmap.png
 ├── medical_data_visualizer.py
 ├── medical_examination.csv
 ├── main.py
